@@ -16,5 +16,14 @@ What if I want *italic* or **bold** or ***bolditalic***?
 
 or 'code' format
 
+'go
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello World!")
+}
+
 or links: 
 https://google.come
