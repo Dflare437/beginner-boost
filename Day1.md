@@ -27,4 +27,5 @@ func main() {
 ```
 
 or links: 
-https://google.come
+https://google.com
+
